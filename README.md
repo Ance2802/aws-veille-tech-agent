@@ -38,4 +38,4 @@ Ce projet valide les compétences suivantes :
 - Gestion des erreurs dans un environnement distribué (timeouts, gestion des clés API).
 
 ---
-*Projet réalisé par [Votre Nom / Ance YOUBI] dans le cadre de ma formation en Architecture Cloud et Agents IA.*
+*Projet réalisé par Ance YOUBI dans le cadre de ma formation en Architecture Cloud et Agents IA.*
